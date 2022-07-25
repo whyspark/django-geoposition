@@ -1,6 +1,7 @@
 ==================
 django-geoposition
 ==================
+*A fork of django-geoposition to fix a few bugs related to porting from Python2 to Python3.*
 
 A model field that can hold a geoposition (latitude/longitude), and corresponding admin/form widget.
 
